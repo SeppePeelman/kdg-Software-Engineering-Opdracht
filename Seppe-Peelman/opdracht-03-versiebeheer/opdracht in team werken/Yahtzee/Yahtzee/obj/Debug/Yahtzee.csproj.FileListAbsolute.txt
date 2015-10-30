@@ -1,0 +1,107 @@
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Oef Programmeren2\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\Software Engineering\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TurnView.resources
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\Games\Desktop\School\Software Engineering\YahtzeeRepo\YahtzeeRepo\Yahtzee\Yahtzee\obj\Debug\Yahtzee.MPScoreView.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.MPScoreView.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.TurnView.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\Yahtzee-Backup\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee_Repo\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\User\Desktop\Yathzee\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.CheatView.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.MPScoreView.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.TurnView.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Yathzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\User\Desktop\Yathzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\User\Desktop\Yathzee\Yahtzee\obj\Debug\Yahtzee.ScoreBoardView.resources
+C:\Users\Games\Desktop\Yathzee-Kevin\Yahtzee\bin\Debug\Yahtzee.exe.config
+C:\Users\Games\Desktop\Yathzee-Kevin\Yahtzee\obj\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Yathzee-Kevin\Yahtzee\obj\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.exe
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\bin\Debug\Yahtzee.pdb
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.CheatView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.MPScoreView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreBoardView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TurnView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+C:\Users\Games\Desktop\Yahtzee\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\bin\Debug\Yahtzee.exe.config
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\bin\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\bin\Debug\Yahtzee.pdb
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.csprojResolveAssemblyReference.cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.CheatView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.MPScoreView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.ScoreBoardView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.ScoreView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.TurnView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.Yahtzee.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.Properties.Resources.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.TeerlingView.resources
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.csproj.GenerateResource.Cache
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.exe
+D:\KDG\2de Jaar (PDT)\Software Engineering (V3D)\Yahtzee-Repo\Yahtzee\obj\Debug\Yahtzee.pdb

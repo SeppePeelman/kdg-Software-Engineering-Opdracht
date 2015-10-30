@@ -12,24 +12,31 @@ namespace Yahtzee
 {
   public partial class Yahtzee : Form
   {
-    public static int aantalTeerlingen = 5;
-    public static int maxAantalWorpen = 3;
-    int aantalWorpen;
-    //List<TeerlingController> teerlingen = new List<TeerlingController>();
-    public static TeerlingController teerlingController = new TeerlingController();
-    public static TurnController turnController = new TurnController();
-    MPScoreController mpScoreController = new MPScoreController();
-    CheatController cheatController = new CheatController();
-    string throwsText = "Throws: ";
-    
-    // Make an instance of the scoreboardcontroller to get the view into YATHZEE
-    ScoreBoardController scoreBoardController = new ScoreBoardController();
+        #region Variables
+        public static int aantalTeerlingen = 5;
+        public static int maxAantalWorpen = 3;
+        int aantalWorpen;
+
+        #region Controllers
+        public static TeerlingController teerlingController = new TeerlingController();
+        public static TurnController turnController = new TurnController();
+
+        MPScoreController mpScoreController = new MPScoreController();
+        CheatController cheatController = new CheatController();
+
+        // Make an instance of the scoreboardcontroller to get the view into YATHZEE
+        ScoreBoardController scoreBoardController = new ScoreBoardController();
+        #endregion
+
+        string throwsText = "Throws: ";
+        #endregion
 
     public Yahtzee()
     {
       InitializeComponent();
     }
-
+    
+    // Add controls to the form
     private void Yahtzee_Load(object sender, EventArgs e)
     {
 
@@ -70,6 +77,9 @@ namespace Yahtzee
       cheatView.Location = new Point(cheatHorizontalPosition-50, turnVerticalPosition +166);
       Controls.Add(cheatView);
 
+      // Make sure when you click a label, you hold the score
+      // Needs to be available the whole time
+      scoreBoardController.HoldScore();
     }
 
     private void UpdateThrowLabel()
@@ -85,17 +95,39 @@ namespace Yahtzee
         {
           teerlingController.teerlingModel.Teerlingen[i].Werp();
           teerlingController.teerlingModel.Teerlingen[i].UpdateUI();
-                    //scoreController.scoreModel.CurrentScore += teerlingen[i].teerlingModel.AantalOgen;
         }
         aantalWorpen++;
-        scoreBoardController.view.CountSum();
-            }
+
+        // Count how much a number in the list of dice occurs
+        scoreBoardController.CountOccurence();
+
+        // Add scores to labels
+        scoreBoardController.CountSum();
+
+        // Calculate the totalScore
+        int row = (turnController.turnModel.Turn == "P2") ? 1 : 0;
+        
+        if(aantalWorpen == maxAantalWorpen)
+            scoreBoardController.CountTotalScore(row);
+      }
       UpdateThrowLabel();
-            //scoreController.UpdateScore();
-            //scoreController.UpdateUI();
-            //scoreController.scoreModel.CurrentScore = 0;
-            
+
+        if (scoreBoardController.model.PointsLabels[0, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text != "0" && scoreBoardController.model.PointsLabels[1, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text != "0")
+        {
+            if (Convert.ToInt64(scoreBoardController.model.PointsLabels[0, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text) == Convert.ToInt64(scoreBoardController.model.PointsLabels[1, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text))
+            MessageBox.Show("Ex aequo!");
+            else if (Convert.ToInt64(scoreBoardController.model.PointsLabels[0, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text) < Convert.ToInt64(scoreBoardController.model.PointsLabels[1, (scoreBoardController.model.PointsLabels.GetLength(1) - 1)].Text))
+            {
+              mpScoreController.UpdateScore("P2");
+              MessageBox.Show("P2 has won!");
+            }
+            else
+            {
+              mpScoreController.UpdateScore("P1");
+              MessageBox.Show("P1 has won!");
+            }       
         }
+    }
 
     private void checkBox1_CheckedChanged(object sender, EventArgs e)
     {
@@ -115,7 +147,7 @@ namespace Yahtzee
       turnController.UpdateTurn();
       turnController.UpdateUI();
       aantalWorpen = 0;
-      //scoreController.scoreModel.CurrentScore = 0;
+     
       UpdateThrowLabel();
       for (int i = 0; i < aantalTeerlingen; i++)
       {

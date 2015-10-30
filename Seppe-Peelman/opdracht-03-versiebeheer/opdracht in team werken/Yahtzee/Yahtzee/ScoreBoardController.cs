@@ -8,7 +8,7 @@ namespace Yahtzee
 {
     public class ScoreBoardController
     {
-        public ScoreBoardView view;
+        ScoreBoardView view;
         public ScoreBoardModel model;
 
         public ScoreBoardController()
@@ -23,6 +23,24 @@ namespace Yahtzee
             return view;
         }
 
+        public void CountSum()
+        {
+            view.CountSum();
+        }
+
+        public void CountOccurence()
+        {
+            view.CountOccurence();
+        }
         
+        public void HoldScore()
+        {
+            view.HoldScore();
+        }
+
+        public void CountTotalScore(int row)
+        {
+            view.CountTotalScore(row);
+        }
     }
 }

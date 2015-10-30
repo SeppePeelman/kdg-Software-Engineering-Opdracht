@@ -78,11 +78,11 @@ namespace Yahtzee
 
         }
 
-        private void CheckAvailable()
+        public void CheckAvailable()
         {
             if (controller.P1Turn())
             {
-                if (controller.cheatModel.P1CheatPoints == controller.cheatModel.ExtraRollPrice)
+                if (controller.cheatModel.P1CheatPoints >= controller.cheatModel.ExtraRollPrice)
                 {
                     controller.cheatModel.ExtraRollIsAvailable = true;
                 }
@@ -91,7 +91,7 @@ namespace Yahtzee
                     controller.cheatModel.ExtraRollIsAvailable = false;
                 }
 
-                if (controller.cheatModel.P1CheatPoints == controller.cheatModel.IndividualRollsPrice)
+                if (controller.cheatModel.P1CheatPoints >= controller.cheatModel.IndividualRollsPrice)
                 {
                     controller.cheatModel.IndividualRollsIsAvailable = true;
                 }

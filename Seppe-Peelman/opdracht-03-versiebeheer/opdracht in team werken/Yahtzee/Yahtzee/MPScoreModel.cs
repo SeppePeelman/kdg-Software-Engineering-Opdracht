@@ -8,7 +8,7 @@ namespace Yahtzee
 {
   public class MPScoreModel
   {
-    private int gameNumber = 1;
+    private int gameNumber = 0;
     private int p1Score = 0;
     private int p2Score = 0;
     private int maxScore = 2;

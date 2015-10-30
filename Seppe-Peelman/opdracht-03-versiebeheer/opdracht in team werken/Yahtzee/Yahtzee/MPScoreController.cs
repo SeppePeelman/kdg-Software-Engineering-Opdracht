@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Yahtzee
 {
@@ -28,25 +29,29 @@ namespace Yahtzee
       mpScoreModel.GameNumber++;
     }
 
-    public void UpdateScore()
+    public void UpdateScore(string player)
     {
-      //if (player1.totalscore > player2.totalscore)
-      //{
+      if (player == "P1")
+      {
           view.UpdateScoreP1Win();
           mpScoreModel.P1Score++;
-      //}
-      //else
-      //{
+      }
+      else
+      {
           view.UpdateScoreP2Win();
           mpScoreModel.P2Score++;
-      //}
+      }
       if (mpScoreModel.P1Score == mpScoreModel.MaxScore)
       {
         //P1Wins
+        MessageBox.Show("P1 Wins the game!");
+        Application.Restart();
       }
       if (mpScoreModel.P2Score == mpScoreModel.MaxScore)
       {
         //P2Wins
+        MessageBox.Show("P2 Wins the game!");
+        Application.Restart();
       }
       NextGame();
     }

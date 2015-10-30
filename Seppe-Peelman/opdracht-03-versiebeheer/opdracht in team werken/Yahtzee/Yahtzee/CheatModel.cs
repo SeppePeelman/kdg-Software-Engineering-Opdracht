@@ -8,10 +8,10 @@ namespace Yahtzee
 {
     public class CheatModel
     {
-        private bool extraRollIsAvailable = false;
-        private bool individualRollsIsAvailable = false;
-        private int p1CheatPoints = 0;
-        private int p2CheatPoints = 0;
+        private bool extraRollIsAvailable = true;
+        private bool individualRollsIsAvailable = true;
+        private int p1CheatPoints = 7;
+        private int p2CheatPoints = 7;
         private int extraRollPrice = 2;
         private int individualRollsPrice = 5;
 
